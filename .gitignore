@@ -1,0 +1,9 @@
+#ignoruj te katalogi umieszczone bezpośrednio w projekcie 
+/.idea/
+
+#ignoruj katalogi o tych nazwach wszędzie w projekcie 
+.pytest_cache/
+_pycache_/
+
+# Ignoruj wszystkie pliki z podanym rozszerzeniem 
+*.pyc
