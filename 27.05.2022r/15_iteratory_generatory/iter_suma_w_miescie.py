@@ -1,6 +1,6 @@
 from iter_sprzedaz import IteratorTransakcji
 
-miasto = 'Białystok' #'Katowice'
+miasto = 'Warszawa' #'Katowice'
 # oblicz sumę wartości transakcji w tym mieście
 suma = 0
 
